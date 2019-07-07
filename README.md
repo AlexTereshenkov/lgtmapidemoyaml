@@ -1,2 +1,2 @@
 # lgtmapidemoyaml
-LGTM API demo repository with YAML configuration file
+LGTM API demo repository that should be added to LGTM with a YAML configuration file
