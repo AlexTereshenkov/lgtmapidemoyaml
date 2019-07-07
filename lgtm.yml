@@ -1,0 +1,4 @@
+path_classifiers:
+  tests:
+    - tests
+    - exclude: tests/tests_excluded
